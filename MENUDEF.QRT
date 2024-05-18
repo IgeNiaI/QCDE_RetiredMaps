@@ -1,0 +1,58 @@
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+AddFreeformMenu "QCDE_SkirmishMenu" below "qcde_randommap1"
+{
+	SubMenu {
+		VisibilityCVar skirm_skirmishgamemode,	3, 10
+		Pos		0, 12				Text				"Retired DM maps"		Background			BV21028
+		Size	105, 14				Font				SmallFont				SelectedBackground	BV21028S
+		Anchor	center, center		FontColor			Tan						menu				QCDE_RetiredMapsDeathmatch
+		Padding	0, 0				SelectedFontColor	Tan
+	}
+}
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+AddFreeformMenu "QCDE_CallVote" below "qcde_randommapmp"
+{
+	SubMenu {
+		VisibilityCVar deathmatch,	1, 1
+		Pos		0, 12				Text				"Retired DM maps"		Background			BV21028
+		Size	105, 14				Font				SmallFont				SelectedBackground	BV21028S
+		Anchor	center, center		FontColor			Tan						menu				QCDE_RetiredMapsDeathmatch
+		Padding	0, 0				SelectedFontColor	Tan
+	}
+}
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+FreeformMenu QCDE_RetiredMapsDeathmatch
+{
+	TopPadding 0
+	ScrollSpeed 16
+	OverrideHeight 640
+
+	Label {	// generic maps background
+		Static
+		Background	"BackMaps"
+		Size		450, 2000
+	}
+
+	Label {
+		Pos			0, 10				Font		QCSMFONT
+		Text		"Retired maps"		FontColor	Gold
+	}
+
+	Command { Pos -198,   30	Text "QCRT01"	Background PVQCRT01		Command map_QCRT01		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
+	Command { Pos  -98,   30	Text "QCRT02"	Background PVQCRT02		Command map_QCRT02		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
+	Command { Pos    2,   30	Text "QCRT03"	Background PVQCRT03		Command map_QCRT03		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
+	Command { Pos  102,   30	Text "QCRT04"	Background PVQCRT04		Command map_QCRT04		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
+	Label {	Pos -150,   84	MaxTextWidth 95		Font SmallFont	Text "Heatwave"						}
+	Label {	Pos  -50,   84	MaxTextWidth 95		Font SmallFont	Text "The Chasm"					}
+	Label {	Pos   50,   84	MaxTextWidth 95		Font SmallFont	Text "Arcane Temple"				}
+	Label {	Pos  150,   84	MaxTextWidth 95		Font SmallFont	Text "The Longest Yard"				}
+}

@@ -1,0 +1,43 @@
+
+//Map by MrEnchanter
+map QCRT01 "Heatwave"
+{
+	NotCategory0 // Exclude from "All maps" list
+	Category1 // Deathmatch & Duel
+	PreviewPic = "PVQCRT01"
+	UsePlayerStartZ
+	Next = "QCRT02"
+}
+
+//Map by DBThanatos
+map QCRT02 "The Chasm"
+{
+	NotCategory0 // Exclude from "All maps" list
+	Category1 // Deathmatch & Duel
+	PreviewPic = "PVQCRT02"
+	UsePlayerStartZ
+	Next = "QCRT03"
+}
+
+//map by geNia
+map QCRT03 "Arcane Temple"
+{
+	NotCategory0 // Exclude from "All maps" list
+	Category1 // Deathmatch & Duel
+	PreviewPic = "PVQCRT03"
+	sky1 = "QCDSky01", 0.5
+	UsePlayerStartZ
+	Next = "QCRT04"
+}
+
+//Map by Abysswalker "Credits to MrRocket for the inspiration to do this map!"
+//DBT note: It's a nice map, but people hate longest yard all around :(
+map QCRT04 "The Longest Yard"
+{
+	NotCategory0 // Exclude from "All maps" list
+	Category1 // Deathmatch & Duel
+	PreviewPic = "PVQCRT04"
+	sky1 = "BLKW", 0.1
+	UsePlayerStartZ
+	Next = "QCRT01"
+}
