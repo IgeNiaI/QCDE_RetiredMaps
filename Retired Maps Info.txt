@@ -6,3 +6,4 @@ QCRT01 "Heatwave"			- Was present in early QC:DE versions, but was removed becau
 QCRT02 "The Chasm"			- Was present from early QC:DE versions and was removed in QC:DE 3.0 Beta 25 because it didn't play well.
 QCRT03 "Arcane Temple"		- Was present in early Q-Zandronum patch builds for QC:DE, then was a part of Community mappack for a while. It was replaced by a new better Arcane Temple version.
 QCRT04 "The Longest Yard"	- Was present from early QC:DE versions and was remade from scratch in QC:DE 3.0 Beta 25, based on QC version this time.
+QCRT05 "Brought 2 Doom"		- Was present in Community Mappack, where it was later remade to improve performance by changing the layout. The remade version was later added to official mappack.

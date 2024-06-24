@@ -1,0 +1,37 @@
+
+Texture "BRWNMSFL", 128, 320
+{
+	Patch "BRWNRCK2", 0, 0
+	Patch "BRWNRCK2", 64, 0
+	Patch "HMNMSK", 0, 128
+	Patch "FLOOR07C", 0, 256
+	Patch "FLOOR07C", 64, 256
+}
+
+Texture "BRWNBOR5", 64, 208
+{
+	Patch "BRWNBORD", 0, 80
+	Patch "BRWNBRD5", 0, 0
+}
+
+Texture "HSTLBRD3", 64, 344
+{
+	Patch "HRSKULL1", 0, 0
+	Patch "HETL1", 0, 128
+	Patch "BRWNBRD3", 0, 192
+	Patch "BRWNBRD3", 0, 320
+}
+
+Texture "BRWNHROO", 64, 192
+{
+	Patch "BRWNRCK2", 0, 0
+	Patch "HOSAIC1", 0, 128
+	Patch "HROOR282", 0, 96
+	{
+		rotate 90
+	}
+	Patch "HROOR282", 32, 96
+	{
+		rotate 90
+	}
+}

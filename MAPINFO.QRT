@@ -39,5 +39,16 @@ map QCRT04 "The Longest Yard"
 	PreviewPic = "PVQCRT04"
 	sky1 = "BLKW", 0.1
 	UsePlayerStartZ
+	Next = "QCRT05"
+}
+
+//map by geNia
+map QCRT05 "Brought 2 doom"
+{
+	NotCategory0 // Exclude from "All maps" list
+	Category1 // Deathmatch & Duel
+	PreviewPic = "PVQCRT05"
+	sky1 = "HRSKY1"
+	UsePlayerStartZ
 	Next = "QCRT01"
 }
