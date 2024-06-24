@@ -57,11 +57,11 @@ FreeformMenu QCDE_RetiredMapsDeathmatch
 	Label {	Pos  150,   84	MaxTextWidth 95		Font SmallFont	Text "The Longest Yard"				}
 
 	Command { Pos -198,  105	Text "QCRT05"	Background PVQCRT05		Command map_QCRT05		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
-	//Command { Pos  -98,  105	Text "QCRT06"	Background PVQCRT06		Command map_QCRT06		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
+	Command { Pos  -98,  105	Text "QCRT06"	Background PVQCRT06		Command map_QCRT06		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
 	//Command { Pos    2,  105	Text "QCRT07"	Background PVQCRT07		Command map_QCRT07		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
 	//Command { Pos  102,  105	Text "QCRT08"	Background PVQCRT08		Command map_QCRT08		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
 	Label {	Pos -150,  159	MaxTextWidth 95		Font SmallFont	Text "Brought 2 Doom"				}
-	//Label {	Pos  -50,  159	MaxTextWidth 95		Font SmallFont	Text ""				}
+	Label {	Pos  -50,  159	MaxTextWidth 95		Font SmallFont	Text "Aerowalk"						}
 	//Label {	Pos   50,  159	MaxTextWidth 95		Font SmallFont	Text ""				}
 	//Label {	Pos  150,  159	MaxTextWidth 95		Font SmallFont	Text ""				}
 }

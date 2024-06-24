@@ -50,5 +50,16 @@ map QCRT05 "Brought 2 doom"
 	PreviewPic = "PVQCRT05"
 	sky1 = "HRSKY1"
 	UsePlayerStartZ
+	Next = "QCRT06"
+}
+
+//map by RoosTer
+map QCRT06 "Aerowalk"	//Edited version, bigger
+{
+	NotCategory0 // Exclude from "All maps" list
+	Category1 // Deathmatch & Duel
+	PreviewPic = "PVQCRT06"
+	UsePlayerStartZ
+	sky1 = aerowalk
 	Next = "QCRT01"
 }
