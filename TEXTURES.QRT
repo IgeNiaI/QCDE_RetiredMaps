@@ -26,12 +26,4 @@ Texture "BRWNHROO", 64, 192
 {
 	Patch "BRWNRCK2", 0, 0
 	Patch "HOSAIC1", 0, 128
-	Patch "HROOR282", 0, 96
-	{
-		rotate 90
-	}
-	Patch "HROOR282", 32, 96
-	{
-		rotate 90
-	}
 }
