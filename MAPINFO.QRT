@@ -61,5 +61,17 @@ map QCRT06 "Aerowalk"	//Edited version, bigger
 	PreviewPic = "PVQCRT06"
 	UsePlayerStartZ
 	sky1 = aerowalk
-	Next = "QCRT01"
+	Next = "QCRT07"
 }
+
+//map by DBThanatos
+map QCRT07 "Lh'owon of Ice and Fire"
+{
+	NotCategory0 // Exclude from "All maps" list
+	Category1 // Deathmatch & Duel
+	PreviewPic = "PVQCRT07"
+	UsePlayerStartZ
+	sky1 = "MAR_SKY1"
+	Next = "QCRT07"
+}
+

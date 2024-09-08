@@ -2,9 +2,10 @@ This is a mappack that contains all maps that used to be a part of official QC:D
 Most of the time that means that the map either didn't play well, or had bad optimization.
 The mappack is being updated from time to time to stay compatible with main QC:DE changes. That includes stuff like new map choice menus, multiplayer networking improvements and better bot pathing. However, the maps will not receive gameplay or visual improvements.
 
-QCRT01 "Heatwave"			- Was present in early QC:DE versions, but was removed because it didn't play well and had bad performance.
-QCRT02 "The Chasm"			- Was present from early QC:DE versions and was removed in QC:DE 3.0 Beta 25 because it didn't play well.
-QCRT03 "Arcane Temple"		- Was present in early Q-Zandronum patch builds for QC:DE, then was a part of Community mappack for a while. It was replaced by a new better Arcane Temple version.
-QCRT04 "The Longest Yard"	- Was present from early QC:DE versions and was remade from scratch in QC:DE 3.0 Beta 25, based on QC version this time.
-QCRT05 "Brought 2 Doom"		- Was present in Community Mappack, where it was later remade to improve performance by changing the layout. The remade version was later added to official mappack.
-QCRT06 "Aerowalk"			- Was present from early QC:DE versions and was retextured in QC:DE 3.0 Beta 3.
+QCRT01 "Heatwave"					- Was present in early QC:DE versions, but was removed because it didn't play well and had bad performance.
+QCRT02 "The Chasm"					- Was present from early QC:DE versions and was removed in QC:DE 3.0 Beta 25 because it didn't play well.
+QCRT03 "Arcane Temple"				- Was present in early Q-Zandronum patch builds for QC:DE, then was a part of Community mappack for a while. It was replaced by a new better Arcane Temple version.
+QCRT04 "The Longest Yard"			- Was present from early QC:DE versions and was remade from scratch in QC:DE 3.0 Beta 25, based on QC version this time.
+QCRT05 "Brought 2 Doom"				- Was present in Community Mappack, where it was later remade to improve performance by changing the layout. The remade version was later added to official mappack.
+QCRT06 "Aerowalk"					- Was present from early QC:DE versions and was retextured in QC:DE 3.0 Beta 3.
+QCRT07 "Lh'owon of Ice and Fire"	- Was present from early QC:DE versions and was replaced by DM-1on1-Lea from Unreal Tournament 2004 in Beta 30.
