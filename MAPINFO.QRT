@@ -72,6 +72,16 @@ map QCRT07 "Lh'owon of Ice and Fire"
 	PreviewPic = "PVQCRT07"
 	UsePlayerStartZ
 	sky1 = "MAR_SKY1"
-	Next = "QCRT07"
+	Next = "QCRT08"
 }
 
+//map by Pixo
+map QCRT08 "Crash Course"
+{
+	NotCategory0 // Exclude from "All maps" list
+	Category1 // Deathmatch & Duel
+	PreviewPic = "PVQCRT08"
+	Sky1 = SITESKY
+	UsePlayerStartZ
+	next = "QCRT01"
+}

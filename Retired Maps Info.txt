@@ -9,3 +9,4 @@ QCRT04 "The Longest Yard"			- Was present from early QC:DE versions and was rema
 QCRT05 "Brought 2 Doom"				- Was present in Community Mappack, where it was later remade to improve performance by changing the layout. The remade version was later added to official mappack.
 QCRT06 "Aerowalk"					- Was present from early QC:DE versions and was retextured in QC:DE 3.0 Beta 3.
 QCRT07 "Lh'owon of Ice and Fire"	- Was present from early QC:DE versions and was replaced by DM-1on1-Lea from Unreal Tournament 2004 in Beta 30.
+QCRT08 "Crash Course"				- Was present from beta QC:DE 3.0 version and was remade from scratch in QC:DE 3.0 release.
