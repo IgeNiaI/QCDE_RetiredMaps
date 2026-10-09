@@ -83,5 +83,16 @@ map QCRT08 "Crash Course"
 	PreviewPic = "PVQCRT08"
 	Sky1 = SITESKY
 	UsePlayerStartZ
+	next = "QCRT09"
+}
+
+//map by RoosTer
+map QCRT09 "Deck"
+{
+	NotCategory0 // Exclude from "All maps" list
+	Category1 // Deathmatch & Duel
+	PreviewPic = "PVQCRT09"
+	UsePlayerStartZ
+	sky1 = "MRPSKY"
 	next = "QCRT01"
 }

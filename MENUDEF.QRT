@@ -63,5 +63,14 @@ FreeformMenu QCDE_RetiredMapsDeathmatch
 	Label {	Pos -150,  159	MaxTextWidth 95		Font SmallFont	Text "Brought 2 Doom"				}
 	Label {	Pos  -50,  159	MaxTextWidth 95		Font SmallFont	Text "Aerowalk"						}
 	Label {	Pos   50,  159	MaxTextWidth 95		Font SmallFont	Text "Lh'owon of Ice and Fire"		}
-	Label {	Pos  150,  159	MaxTextWidth 95		Font SmallFont	Text "Crash Course"				}
+	Label {	Pos  150,  159	MaxTextWidth 95		Font SmallFont	Text "Crash Course"					}
+
+	Command { Pos -198,   180	Text "QCRT09"	Background PVQCRT09		Command map_QCRT09		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
+	//Command { Pos  -98,   180	Text "QCRT10"	Background PVQCRT10		Command map_QCRT10		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
+	//Command { Pos    2,   180	Text "QCRT11"	Background PVQCRT11		Command map_QCRT11		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
+	//Command { Pos  102,   180	Text "QCRT12"	Background PVQCRT12		Command map_QCRT12		Size 96, 54		MouseArea 96, 64	Font SmallFont		SelectedForeground	MAPSELEC, 104, 62		Anchor left, top	FontColor DarkGray		Padding	2, 1 SelectedFontColor Gray	}
+	Label {	Pos -150,   234	MaxTextWidth 95		Font SmallFont	Text "Deck"							}
+	//Label {	Pos  -50,   234	MaxTextWidth 95		Font SmallFont	Text ""					}
+	//Label {	Pos   50,   234	MaxTextWidth 95		Font SmallFont	Text ""					}
+	//Label {	Pos  150,   234	MaxTextWidth 95		Font SmallFont	Text ""					}
 }

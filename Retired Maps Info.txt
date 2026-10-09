@@ -6,38 +6,42 @@ The mappack is being updated from time to time to stay compatible with main QC:D
 * Maps and Authors *
 
 -------------------------------------------------------------------------------------------------------------------
-Map       Title                   Author						Originally From
+Map			Title						Author						Originally From
 -------------------------------------------------------------------------------------------------------------------
 
-QCRT01    Heatwave                Mr.Enchanter						Heatwave - Doom 2016
+QCRT01		Heatwave					Mr.Enchanter				Heatwave - Doom 2016
 
 Was present in early QC:DE versions, but was removed because it didn't play well and had bad performance.
 -------------------------------------------------------------------------------------------------------------------
-QCRT02    The Chasm               DBThanatos						The Chasm - Doom 2016
+QCRT02		The Chasm					DBThanatos					The Chasm - Doom 2016
 
 Was present from early QC:DE versions and was removed in QC:DE 3.0 Beta 25 because it didn't play well.
 -------------------------------------------------------------------------------------------------------------------
-QCRT03    Arcane Temple		  geNia							DM-ArcaneTemple - Unreal Tournament
+QCRT03		Arcane Temple				geNia						DM-ArcaneTemple - Unreal Tournament
 
 Was present in early Q-Zandronum patch builds for QC:DE, then was a part of Community mappack for a while. It was replaced by a new better Arcane Temple version.
 -------------------------------------------------------------------------------------------------------------------
-QCRT04    The Longest Yard        Abysswalker						Q3DM17 - Quake 3 Arena
+QCRT04		The Longest Yard			Abysswalker					Q3DM17 - Quake 3 Arena
 
 Was present from early QC:DE versions and was remade from scratch in QC:DE 3.0 Beta 25, based on QC version this time.
 -------------------------------------------------------------------------------------------------------------------
-QCRT05    Brought 2 Doom          geNia							Duel1 - Doombringer
+QCRT05		Brought 2 Doom				geNia						Duel1 - Doombringer
 
 Was present in Community Mappack, where it was later remade to improve performance by changing the layout. The remade version was later added to official mappack.
 -------------------------------------------------------------------------------------------------------------------
-QCRT06    Aerowalk                RoosTer						Aerowalk - Quake Live
+QCRT06		Aerowalk					RoosTer						Aerowalk - Quake Live
 
 Was present from early QC:DE versions and was retextured in QC:DE 3.0 Beta 3.
 -------------------------------------------------------------------------------------------------------------------
-QCRT07    Lh'owon of Ice and Fire DBThanatos
+QCRT07		Lh'owon of Ice and Fire		DBThanatos
 
 Was present from early QC:DE versions and was replaced by DM-1on1-Lea from Unreal Tournament 2004 in QC:DE 3.0 Beta 30.
 -------------------------------------------------------------------------------------------------------------------
-QCRT08    Crash Course            Pixo							Hell's Gate Redux - Quake Live
+QCRT08		Crash Course				Pixo						Hell's Gate Redux - Quake Live
 
 Was present from beta QC:DE 3.0 version and was remade from scratch for QC:DE 3.0 release.
+-------------------------------------------------------------------------------------------------------------------
+QCRT09		Deck						RoosTer						Deck - Unreal Tournament
+
+Was present from early QC:DE versions and was replaced by Crossfire from Half-Life in QC:DE 3.1 Beta 3.
 -------------------------------------------------------------------------------------------------------------------
